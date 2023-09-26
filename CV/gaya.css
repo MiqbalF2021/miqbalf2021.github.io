@@ -16,13 +16,9 @@ table {
     margin-left: 25px;
     margin-right: 25px;
   }
- .nav {
-    background-color: rgb(128, 135, 142);
-  }
+
 
   .main {
     background-color: rgb(255, 255, 255);
   }
-  .footer {
-    background-color: rgb(128, 135, 142);
-  }
+  
