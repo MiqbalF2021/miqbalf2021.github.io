@@ -1,0 +1,18 @@
+body {
+    margin-top: 15px;
+    margin-right: 200px;
+    margin-left: 200px;
+    margin-bottom: 75px
+}
+table, td, th, tr {
+    border: 1px solid;
+}
+table {
+    width: 100%;
+    border-collapse: collapse;
+  }
+
+  .tabel{
+    margin-left: 25px;
+    margin-right: 25px;
+  }
